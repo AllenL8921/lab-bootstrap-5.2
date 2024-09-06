@@ -17,7 +17,7 @@ footer{
 }
 
 .hero-img{
-    background-image: url('/lab-bootstrap-5.2/images/coffee-biscuits.jpg'); 
+    background-image: url('/images/coffee-biscuits.jpg'); 
     background-size: cover;
     background-position: center;
     position: relative;
